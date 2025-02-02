@@ -1,7 +1,6 @@
 # Amazon Frontend Clone
 
-A responsive Amazon-inspired e-commerce webpage built using HTML, CSS, and JavaScript. This project mimics Amazon's homepage structure, including a navbar, search bar, product sections, and footer.
-
+This project is an Amazon-inspired e-commerce webpage built using HTML, CSS, and JavaScript. It mimics Amazon's homepage structure, including a navbar, search bar, product sections, and footer.
 ## Features
 
 ### Navigation Bar
